@@ -1,0 +1,1 @@
+# nuxt-color-mode-daisyui
